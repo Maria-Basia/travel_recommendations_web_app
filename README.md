@@ -80,26 +80,26 @@ Integration of multiple APIs: Our project also focused on enhancing performance 
 
 ## Landing page
 
-![Screenshot of the landing page](../screenshots/landing_page.png)
+![Screenshot of the landing page](landing_page.png)
 
 ## Continet preference question page
 
-![Screenshot of the continent preference question page ](../screenshots/continent_question_page.png)
+![Screenshot of the continent preference question page](continent_question_page.png)
 
 ## Preferred travel dates page
 
-![Preferred travel dates page](../screenshots/dates_question_page.png)
+![Preferred travel dates page](dates_question_page.png)
 
 ## Weather preference question page
 
-![Weather preference question page](../screenshots/weather_question_page.png)
+![Weather preference question page](weather_question_page.png)
 
 ## Loading page
 
-![Screenshot of a loading page](../screenshots/loading_page.png)
+![Screenshot of a loading page](loading_page.png)
 
 ## Recommendations page
 
-![Recommendations page](../screenshots/recommendation_page.png)
+![Recommendations page](recommendation_page.png)
 
 
