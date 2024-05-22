@@ -56,10 +56,10 @@ npm run build
 ### Activate the virtual environment
 ` pipenv shell `
 
-# Run the tests (with extra logging)
+### Run the tests (with extra logging)
 ` pytest -sv `
 
-# Run the app
+### Run the app
 ` python app.py `
 
 
